@@ -8,10 +8,12 @@ Rainmeter是一款应用并管理小部件（Widgets）和模块（Modules）的
 
 当您安装了Rainmeter后，可直接双击小部件即可安装。
 
-在桌面托盘打开Rainmeter，点击Xiao_Weather_Widget，展开目录，找到settings/settings.ini。您可以在这里设置界面的语言，边框颜色，城市代码等。
-点击Drivers,双击Weather Code（中央气象台）和City Code（中国天气网）后的代码即可修改，默认为Beijing，请从源码文件夹或安装目录文件夹中找到中央气象台和中国天气网这两个文件夹，各城市代码已保存为.txt放置于这两个文件夹中。在结束以上步骤后请重启您的电脑并联网，现在您应该看到小部件显示出正常的天气信息了。Good luck and have a nice day.
+I.在桌面托盘打开Rainmeter，点击Xiao_Weather_Widget，展开目录，找到settings/settings.ini。您可以在这里设置界面的语言，边框颜色，城市代码等。  
+II.点击Drivers,双击Weather Code（中央气象台）和City Code（中国天气网）后的代码即可修改，默认为Beijing  
+III.请从源码文件夹或安装目录文件夹中找到中央气象台和中国天气网这两个文件夹，各城市代码已保存为.txt放置于这两个文件夹中。在结束以上步骤后请重启您的电脑并联网，现在您应该看到小部件显示出正常的天气信息了。  
+Good luck and have a nice day!
 
-如果您会一些编程，您也可以在源码或安装目录中找到Settings/settings.ini, Resources/measures/weather.inc这两个文件并自行修改需要展示的内容和位置等。  
+如果您会一些编程，您也可以在源码或安装目录中找到**Settings/settings.ini**, **Resources/measures/weather.inc**这两个文件并自行修改需要展示的内容和位置等。  
 Languages文件夹和style.inc分别与语言及部件的位置和样式有关。其中设置界面默认采用英文，展示语言则默认注释了语言，采用Weather API返回的中文，您可以选择需要的语言并取消注释。
 
 ### 本小部件与Sweather的关系
@@ -23,7 +25,7 @@ Languages文件夹和style.inc分别与语言及部件的位置和样式有关�
 ## Weather API
 本小部件使用中央气象台和中国天气网提供的API,具有权威性，准确性，实时性，且支持中文。默认每小时自动更新一次，您也可以在settings/settings.ini中修改更新频率。  
 注1：中央气象台和中国天气网的API应是长期有效的，但若因为某些原因失效，则除外观代码外其余部分将失效并无返回值。  
-注2：如若您想要更换API，则可以在settings/settings.ini中修改API的名称，但需要注意的是，您需要自行修改measures/weather.inc中的代码，以适应您所更换的API。  
+注2：如若您想要更换API，则可以在**settings/settings.ini**中修改API的名称，但需要注意的是，您需要自行修改**measures/weather.inc**中的代码，以适应您所更换的API。  
 注3：过时数据显示为空
 
 ### LICENSE

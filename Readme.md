@@ -55,10 +55,10 @@ Especially thanks to Stephi`s SWeather.
 <table>
   <tr>
     <td>
-	    <img width="277px" src="imgs/img4.png">
+	    <img width="550px" src="imgs/img4.png">
     </td>
     <td>
-	    <img width="400px" src="imgs/img5.png">
+	    <img width="550px" src="imgs/img5.png">
     </td>
     <td>
 	    <img width="277px" src="imgs/img6.png">

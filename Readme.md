@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-一款实时显示天气的桌面小部件 <a href="releases">Xiao_Weather_Widget</a> for Windows by using Rainmeter.
+一款实时显示天气的桌面小部件 <a href="https://github.com/xiaochenthu/Xiao_Weather_Widget/">Xiao_Weather_Widget</a> for Windows by using Rainmeter.
 <br>
 Especially thanks to Stephi`s SWeather.
 
@@ -55,10 +55,10 @@ Especially thanks to Stephi`s SWeather.
 <table>
   <tr>
     <td>
-	    <img width="550px" src="imgs/img4.png">
+	    <img width="650px" src="imgs/img4.png">
     </td>
     <td>
-	    <img width="550px" src="imgs/img5.png">
+	    <img width="650px" src="imgs/img5.png">
     </td>
     <td>
 	    <img width="277px" src="imgs/img6.png">

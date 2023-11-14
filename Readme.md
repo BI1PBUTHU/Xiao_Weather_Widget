@@ -1,8 +1,8 @@
-## Introduction
+# Introduction
 **Xiao_Weather_Widget**是作者为了美化桌面开发的一款桌面天气小部件（以下简称小部件），可以实时显示当天天气情况，如温度，湿度，风力，污染指数，预警信息，紫外线指数，限行信息以及日出日落等，如图。并可自由定制更改显示内容，语言，字体以及大小等。如本小部件默认将限行信息注释掉了，如需要可自行开启。
 
 #  Installation and Using
-下载小部件[Releases](https://github.com/xiaochenthu/Xiao_Weather_Widget/releases)
+下载小部件[Releases](https://github.com/xiaochenthu/Xiao_Weather_Widget/releases)  
 本小部件依赖Rainmeter提供支持。  
 Rainmeter是一款应用并管理小部件（Widgets）和模块（Modules）的免费开源应用，您可以选择去Rainmeter的[官网](https://rainmeter.net)或者其[github仓库](https://github.com/rainmeter/)并根据官方介绍安装。需要注意Rainmeter在安装结束后可能会报错，此时请自行删除开始程序界面和桌面的快捷方式并自行创建快捷方式即可正常使用
 

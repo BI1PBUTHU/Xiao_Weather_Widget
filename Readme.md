@@ -3,14 +3,14 @@
 
 #  Installation and Using
 下载小部件[Releases](https://github.com/xiaochenthu/Xiao_Weather_Widget/releases)  
-本小部件依赖Rainmeter提供支持。  
+本小部件依赖**Rainmeter**提供支持。  
 Rainmeter是一款应用并管理小部件（Widgets）和模块（Modules）的免费开源应用，您可以选择去Rainmeter的[官网](https://rainmeter.net)或者其[github仓库](https://github.com/rainmeter/)并根据官方介绍安装。需要注意Rainmeter在安装结束后可能会报错，此时请自行删除开始程序界面和桌面的快捷方式并自行创建快捷方式即可正常使用
 
-当您安装了Rainmeter后，可直接双击小部件即可安装。
+当您安装了Rainmeter后，可直接**双击小部件**即可安装。
 
-I.在桌面托盘打开Rainmeter，点击Xiao_Weather_Widget，展开目录，找到settings/settings.ini。您可以在这里设置界面的语言，边框颜色，城市代码等。  
-II.点击Drivers,双击Weather Code（中央气象台）和City Code（中国天气网）后的代码即可修改，默认为Beijing  
-III.请从源码文件夹或安装目录文件夹中找到中央气象台和中国天气网这两个文件夹，各城市代码已保存为.txt放置于这两个文件夹中。在结束以上步骤后请重启您的电脑并联网，现在您应该看到小部件显示出正常的天气信息了。  
+**I**.在桌面托盘打开Rainmeter，点击Xiao_Weather_Widget，展开目录，找到settings/settings.ini。您可以在这里设置界面的语言，边框颜色，城市代码等。  
+**II**.点击Drivers,双击Weather Code（中央气象台）和City Code（中国天气网）后的代码即可修改，默认为Beijing  
+**III**.请从源码文件夹或安装目录文件夹中找到中央气象台和中国天气网这两个文件夹，各城市代码已保存为.txt放置于这两个文件夹中。在结束以上步骤后请重启您的电脑并联网，现在您应该看到小部件显示出正常的天气信息了。  
 Good luck and have a nice day!
 
 如果您会一些编程，您也可以在源码或安装目录中找到**Settings/settings.ini**, **Resources/measures/weather.inc**这两个文件并自行修改需要展示的内容和位置等。  

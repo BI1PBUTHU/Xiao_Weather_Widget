@@ -18,7 +18,7 @@ Languages文件夹和style.inc分别与语言及部件的位置和样式有关�
 
 本小部件在外观上二改引用了Stephi的SWeather的外观代码，并采用了SWeather所引用的6国Languages，因SWeather采用**Creative Commons Attribution-ShareAlike 4.0 International Public License（CC BY-SA 4.0 License）**，为尊重Stephi对本小部件的贡献，故本小部件仍采用**CC BY-SA 4.0 License**
 
-许多天气小组件采用wxdata.weather.com提供的API，然而此API已经被弃用，SWeather同样使用此API，且无中文支持。同时wxdata.weather.com serves for Amercia.本部件采用中央气象台和中国天气网提供的API，且支持中文，更适合中国宝宝的体质。
+许多天气小组件采用wxdata.weather.com提供的API，然而此API已经被弃用，SWeather同样使用此API，且无中文支持。同时wxdata.weather.com serves for America.本部件采用中央气象台和中国天气网提供的API，且支持中文，更适合中国宝宝的体质。
 
 ## Weather API
 本小部件使用中央气象台和中国天气网提供的API,具有权威性，准确性，实时性，且支持中文。默认每小时自动更新一次，您也可以在settings/settings.ini中修改更新频率。  

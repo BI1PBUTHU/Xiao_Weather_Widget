@@ -1,0 +1,24 @@
+Xiao_Weather(V1) by BI1PBU: 
+LICENSE:Creative Commons Attribution-Noncommercial-Share Alike 4.0 License(CC BY-NC-SA 4.0)
+
+Language Options supported by the previous contributors:
+
+- 8 languages: English, French, Spanish, Italian, Portuguese, German, Russian & Serbian,
+- text color, font face, font size... can be modified,
+- easy configuration with the "settings" panel.
+
+- Serbian language thanks to HipHopium (http://hiphopium.deviantart.com/),
+- Spanish language thanks to Agelyk (http://agelyk.deviantart.com/),
+- German language thanks to luzifersenpai (http://luzifersenpai.deviantart.com/).
+
+
+You can increase the size of the skin with the left mouse button. Just click on the background. Use the middle click to decrease. 
+
+Change the weather code via the settings panel.
+
+
+- Weather: information (http://www.nmc.cn/) for 3 days-中央气象台
+- City : information (from http://www.weather.com.cn)-中国天气网
+
+
+Thanks for the previous contributors

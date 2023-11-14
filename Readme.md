@@ -42,23 +42,23 @@ Especially thanks to Stephi`s SWeather.
 <table>
   <tr>
     <td>
+	    <img width="277px" src="imgs/img5.png">
+    </td>
+    <td>
 	    <img width="277px" src="imgs/img1.png">
     </td>
     <td>
 	    <img width="277px" src="imgs/img2.png">
-    </td>
-    <td>
-	    <img width="277px" src="imgs/img3.png">
     </td>
   </tr>
 </table>
 <table>
   <tr>
     <td>
-	    <img width="650px" src="imgs/img4.png">
+	    <img width="650px" src="imgs/img3.png">
     </td>
     <td>
-	    <img width="650px" src="imgs/img5.png">
+	    <img width="650px" src="imgs/img4.png">
     </td>
     <td>
 	    <img width="277px" src="imgs/img6.png">

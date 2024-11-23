@@ -97,4 +97,4 @@ Good luck and have a nice day!
 注4：本小部件默认将限行信息注释掉了，如需要可自行开启。  
 
 ## 📝 LICENSE
-因SWeather采用了**Creative Commons Attribution-ShareAlike 4.0 International Public License（CC BY-SA 4.0 License）**，为尊重Stephi对本小部件的贡献，故本小部件仍采用**CC BY-SA 4.0 License**，您可以在[这里](https://creativecommons.org/licenses/by-sa/4.0/)找到该许可证的详细信息。
+故本小部件采用**CC BY-SA 4.0 License**，您可以在[这里](https://creativecommons.org/licenses/by-sa/4.0/)找到该许可证的详细信息。
